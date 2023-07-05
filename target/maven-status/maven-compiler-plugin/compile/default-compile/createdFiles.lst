@@ -1,0 +1,14 @@
+com/skakundima/spring/boot/KataTask_3_1_2/SecurityApplication.class
+com/skakundima/spring/boot/KataTask_3_1_2/controllers/AdminController.class
+com/skakundima/spring/boot/KataTask_3_1_2/repository/RoleRepository.class
+com/skakundima/spring/boot/KataTask_3_1_2/entity/User.class
+com/skakundima/spring/boot/KataTask_3_1_2/configs/SuccessUserHandler.class
+com/skakundima/spring/boot/KataTask_3_1_2/service/UserService.class
+com/skakundima/spring/boot/KataTask_3_1_2/configs/WebSecurityConfig.class
+com/skakundima/spring/boot/KataTask_3_1_2/init/InitializerUserRole.class
+com/skakundima/spring/boot/KataTask_3_1_2/service/impl/UserServiceImpl.class
+com/skakundima/spring/boot/KataTask_3_1_2/service/RoleService.class
+com/skakundima/spring/boot/KataTask_3_1_2/service/impl/RoleServiceImpl.class
+com/skakundima/spring/boot/KataTask_3_1_2/controllers/UserController.class
+com/skakundima/spring/boot/KataTask_3_1_2/repository/UserRepository.class
+com/skakundima/spring/boot/KataTask_3_1_2/entity/Role.class

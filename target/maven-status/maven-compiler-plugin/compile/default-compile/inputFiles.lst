@@ -1,0 +1,14 @@
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/configs/SuccessUserHandler.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/SecurityApplication.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/entity/User.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/service/impl/UserServiceImpl.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/repository/UserRepository.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/controllers/AdminController.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/service/UserService.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/service/RoleService.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/controllers/UserController.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/configs/WebSecurityConfig.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/repository/RoleRepository.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/service/impl/RoleServiceImpl.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/init/InitializerUserRole.java
+/Users/papaskakun/Desktop/JAVA_KATA/ultimate/3.1.3/Task3_1_3_Spring_Securyty_rebuild/src/main/java/com/skakundima/spring/boot/KataTask_3_1_2/entity/Role.java
